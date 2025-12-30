@@ -71,6 +71,8 @@ GitHub: https://github.com/sriman-git09
 ---
 
 ## ⚙️ Installation & Usage (How to Run on Linux)
+when you run ./bash-login-banner.sh you write your name and also a object or your body part like 
+./bash-login-banner.sh sriman face
 
 ### 1️⃣ Clone the Repository
 ```bash
@@ -81,5 +83,4 @@ sudo apt install curl -y
 sudo apt install figlet -y
 chmod +x bash-login-banner.sh
 ./bash-login-banner.sh
-
 
