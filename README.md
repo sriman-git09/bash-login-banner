@@ -81,10 +81,5 @@ sudo apt install curl -y
 sudo apt install figlet -y
 chmod +x bash-login-banner.sh
 ./bash-login-banner.sh
-//Run Automatically on Terminal Startup (Optional)
-nano ~/.bashrc
-~/bash-login-banner/bash-login-banner.sh
-source ~/.bashrc
 
-## 📸 Sample Output
 
