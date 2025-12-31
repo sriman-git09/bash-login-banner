@@ -12,11 +12,11 @@ WEATHER=$(curl -s "wttr.in/${CITY}?format=3")
 
 
 
-echo "                Hellow mr.$name welcome  to your sytem 'BLACK GOKU' you are ANONYMOUS."
+echo "                Hellow mr.$name welcome  to your system. you are now ANONYMOUS."
 sleep 2
 echo "your $complement is look so beautiful"
 sleep 2
-echo "BY THE WAY , welcome to your workspace $name."
+echo "BY THE WAY , welcome to your workspace mr. $name."
 sleep 2
 echo " "
 sleep 1
