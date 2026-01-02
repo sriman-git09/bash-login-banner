@@ -35,3 +35,5 @@ curl -s "wttr.in/${CITY}"
 sleep 2
 
 echo "                      HAVE A GOOD DAY SIR !!"
+echo " "
+echo "                        Let's continue...."
